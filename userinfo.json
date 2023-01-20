@@ -1,5 +1,5 @@
 [
-  
+  {
       "name": "John Anderson",
       "position": "frontend developer, QA-engineer",
       "age": "23",
@@ -25,5 +25,6 @@
           "icon": "fa fa-linkedin-square"
         }
       ]
+  }
     
 ]
