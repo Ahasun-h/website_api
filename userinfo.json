@@ -1,6 +1,7 @@
 [
   {
-      "name": "John Anderson",
+    "user_info": {
+      "name": "John Habib",
       "position": "frontend developer, QA-engineer",
       "age": "23",
       "contact_number": "8 (234) 456-33-33",
@@ -25,6 +26,6 @@
           "icon": "fa fa-linkedin-square"
         }
       ]
+    }
   }
-    
 ]
